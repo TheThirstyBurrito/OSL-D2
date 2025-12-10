@@ -1,6 +1,6 @@
 {
 	"Name": "Oceanic Sacrificial League - Season 1 Division 2",
-	"Version": 1765174752,
+	"Version": 1764851443,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -220,11 +220,6 @@
 				[
 					"170",
 					"220"
-				],
-				[
-					"160",
-					"151",
-					"210"
 				]
 			]
 		},
@@ -281,7 +276,6 @@
 			"Name": "Tier 3",
 			"SurvivorIndvPerkBans": [
 				"21",
-				"246",
 				"34",
 				"36",
 				"38",
