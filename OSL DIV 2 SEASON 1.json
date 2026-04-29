@@ -1,6 +1,6 @@
 {
 	"Name": "OSL Academy Season 2",
-	"Version": 1775373013,
+	"Version": 1777470753,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1377,9 +1377,9 @@
 		{
 			"Name": "The Plague",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				"4"
+				"50"
 			],
 			"BalanceTiers": [
 				0,
@@ -2289,7 +2289,7 @@
 		{
 			"Name": "The Mastermind",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"0"
 			],
@@ -2774,7 +2774,7 @@
 		{
 			"Name": "The Dark Lord",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"50"
 			],
