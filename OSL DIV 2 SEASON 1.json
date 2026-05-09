@@ -1,6 +1,6 @@
 {
 	"Name": "OSL Academy Season 2",
-	"Version": 1777521852,
+	"Version": 1778311190,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1130,7 +1130,7 @@
 		{
 			"Name": "The Clown",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"8"
 			],
@@ -2289,7 +2289,7 @@
 		{
 			"Name": "The Mastermind",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				"0"
 			],
