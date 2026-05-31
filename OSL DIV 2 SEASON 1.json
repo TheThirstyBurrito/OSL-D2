@@ -1,6 +1,6 @@
 {
 	"Name": "OSL Academy Season 2",
-	"Version": 1778311190,
+	"Version": 1780233151,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -251,6 +251,10 @@
 				[
 					"151",
 					"184"
+				],
+				[
+					"178",
+					"264"
 				]
 			]
 		},
@@ -2224,11 +2228,11 @@
 			],
 			"BalanceTiers": [
 				0,
-				3
+				4
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				3
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
