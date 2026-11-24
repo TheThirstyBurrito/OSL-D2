@@ -1,6 +1,6 @@
 {
 	"Name": "OSL Season 7 Cross Ping V2",
-	"Version": 1795441574,
+	"Version": 1795495993,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Cross Ping counts as playing across regions with NEA vs SEA Not being counted.",
 	"Tiers": [
@@ -331,6 +331,7 @@
 				"76",
 				"80",
 				"92",
+				"102",
 				"112",
 				"253",
 				"121",
